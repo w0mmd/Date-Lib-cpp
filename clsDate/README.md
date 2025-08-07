@@ -52,14 +52,14 @@ int main() {
 
 ## 🧩 Dependencies
 
-This library depends on the custom [`clsString`](https://github.com/YourUsername/String-Lib-cpp) library for internal string handling.  
+This library depends on the custom [`clsString`](https://github.com/w0mmd/String-Lib-cpp) library for internal string handling.  
 Make sure to include and link `clsString` in your project if it's not already part of your codebase.
 
 ---
 
 ## 🔄 Related Projects
 
-- [clsString](https://github.com/YourUsername/String-Lib-cpp): A custom string manipulation library used internally by `clsDate`.
+- [clsString](https://github.com/w0mmd/String-Lib-cpp): A custom string manipulation library used internally by `clsDate`.
 
 ---
 
